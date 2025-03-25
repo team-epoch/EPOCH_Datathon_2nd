@@ -15,7 +15,7 @@
 (업데이트 예정)
 
 ## 제출 가이드라인
-> **공통 경로**: `EPOCH_Datathon/Mini_Project_Submissions/`
+> **공통 경로**: `EPOCH_Datathon_2nd/Mini_Project_Submissions/`
 ### 예선
 각 팀은 **코드**, **보드**를 제출해야 하며, 각 파일 양식은 아래와 같습니다.
 - **코드**: `Preliminary_Round/TeamN/2nd_miniproj_code_팀명.ipynb`
