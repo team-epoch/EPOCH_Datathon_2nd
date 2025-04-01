@@ -33,7 +33,6 @@
 ### 폴더 구조:
 ```
 EPOCH_Datathon/
-├── data
 └── Mini_Project_Submissions/
     ├── Preliminary_Round/
     │   ├── Team1/
